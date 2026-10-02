@@ -666,14 +666,7 @@ main
 
 No deben versionarse entornos virtuales, cachés de Python ni archivos temporales. Los datasets grandes deben obtenerse mediante el script de ingesta o almacenamiento externo, de acuerdo con las indicaciones del proyecto.
 
-## 21. Equipo
-
-- Cynthia Montero Sancho.
-- Sebastian Calvo.
-
-
-
-## 22. Referencias
+## 21. Referencias
 
 - Becker, B. y Kohavi, R. (1996). Adult. UCI Machine Learning Repository.
 - [Documentación de scikit-learn](https://scikit-learn.org/stable/).
